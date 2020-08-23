@@ -35,9 +35,9 @@
 */
 
 	define('QA_MYSQL_HOSTNAME', '127.0.0.1');
-	define('QA_MYSQL_USERNAME', 'medadmin');
-	define('QA_MYSQL_PASSWORD', 'Demo');
-	define('QA_MYSQL_DATABASE', 'medturnsdb');
+	define('QA_MYSQL_USERNAME', 'doodus_medturns_prod');
+	define('QA_MYSQL_PASSWORD', 'earfsuirtgiuvflvncjf@£$£kin');
+	define('QA_MYSQL_DATABASE', 'doodus_medturns_prod');
 
 /*
 	Ultra-concise installation instructions:
