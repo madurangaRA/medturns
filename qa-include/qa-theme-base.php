@@ -258,7 +258,7 @@ class qa_html_theme_base
 
 	public function html()
 	{
-		$attribution = '<!-- Powered by Question2Answer - http://www.question2answer.org/ -->';
+		$attribution = '<!-- Powered by Doodus - https://www.doodus.org/ -->';
 		$extratags = isset($this->content['html_tags']) ? $this->content['html_tags'] : '';
 
 		$this->output(
